@@ -1,0 +1,50 @@
+body {
+    /* generally you shouls delete unused styles  */
+    /* font-family:'Courier New', Courier, monospace; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: khaki;
+    /* background-color: rgb(141, 128, 16); */
+    /* background-color: ; */
+    /* background-color: #8d8018; */
+
+}
+
+/* applies to all articles */
+article {
+    background-color: antiquewhite;
+}
+
+p {
+    font-size: 12px;
+    color: indigo;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+.city-pic {
+    /* istead i can select  */
+    width: 300px;
+    height: 300px;
+}
+
+footer{
+    background-color: darkslategrey;
+    color: beige;
+}
+
+.second-p {
+    background-color: coral;
+}
+
+.thin-dark-border {
+    border-color: rgb(26,31,31);
+    border-width: 2px;
+    border-style: solid;
+}
+
+#riga_landspace {
+
+}
+
